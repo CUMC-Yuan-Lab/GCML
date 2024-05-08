@@ -1,3 +1,3 @@
 # Gossip Contrastive Mutual Learning (GCML)
-Source paper: "Decentralized Personalization for Federated Medical Image Segmentation via Gossip Contrastive Mutual Learning" (under review)
+Source code of manuscript "Decentralized Personalization for Federated Medical Image Segmentation via Gossip Contrastive Mutual Learning" (under review)
 
