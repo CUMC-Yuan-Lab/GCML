@@ -1,8 +1,18 @@
 # Scale Attention Network (SA-Net) in Gossip Contrastive Mutual Learning (GCML)
 
+## SA-Net
+![](images/sanet.png)
+SA-Net is the segmentation model we used for GCML study. It was evaluated on various medical image segmentation 
+tasks under various imaging modalities with top performance, such as the 2nd place in BraTS 2021 challenge.
+More details can be found in the papers listed in the citation section.
+
 ## Use cases
 ### [SA-Net on BraTS21 dataset](SANet/BraTS/)
 ### [SA-Net on PanSeg dataset](SANet/PanSeg/)
+### SA-Net on HECKTOR dataset (comming soon)
+### GCML with SA-Net on BraTS21 dataset (comming soon)
+### GCML with SA-Net on PanSeg dataset (comming soon)
+### GCML with SA-Net on HECKTOR dataset (comming soon)
 
 ## License
 The code is licensed under GPL-3.0 license.
