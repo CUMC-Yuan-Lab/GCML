@@ -9,10 +9,10 @@ More details can be found in the papers listed in the citation section.
 ## Use cases
 ### [SA-Net on BraTS21 dataset](SANet/BraTS/)
 ### [SA-Net on PanSeg dataset](SANet/PanSeg/)
-### SA-Net on HECKTOR dataset (comming soon)
-### GCML with SA-Net on BraTS21 dataset (comming soon)
-### GCML with SA-Net on PanSeg dataset (comming soon)
-### GCML with SA-Net on HECKTOR dataset (comming soon)
+### SA-Net on HECKTOR dataset (coming soon)
+### GCML with SA-Net on BraTS21 dataset (coming soon)
+### GCML with SA-Net on PanSeg dataset (coming soon)
+### GCML with SA-Net on HECKTOR dataset (coming soon)
 
 ## License
 The code is licensed under GPL-3.0 license.
