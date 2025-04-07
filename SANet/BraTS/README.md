@@ -57,7 +57,6 @@ If you use this code for your research, please cite the following papers:
    doi = {10.1109/TMI.2025.3549292},
    issn = {0278-0062},
    journal = {IEEE Transactions on Medical Imaging},
-   pages = {1-1},
    title = {Decentralized Personalization for Federated Medical Image Segmentation via Gossip Contrastive Mutual Learning},
    year = {2025}
 }
