@@ -1,8 +1,8 @@
 # Scale Attention Network (SA-Net) in Gossip Contrastive Mutual Learning (GCML)
 
 ## Use cases
-### [SA-Net on BraTS21 dataset](SANet/BraTS/README.md)
-### [SA-Net on PanSeg dataset](SANet/PanSeg/README.md)
+### [SA-Net on BraTS21 dataset](SANet/BraTS/)
+### [SA-Net on PanSeg dataset](SANet/PanSeg/)
 
 ## License
 The code is licensed under GPL-3.0 license.
