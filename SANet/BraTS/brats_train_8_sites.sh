@@ -1,0 +1,1 @@
+python -W ignore brats_train.py --fold 0 --gpu 0 --setting SETTINGS_train_8sites --config config_vbrats_8_sites

@@ -1,0 +1,1 @@
+python -W ignore brats_predict.py --fold 0 --gpu 0 --config config_vbrats_8_sites --setting SETTINGS_predict_8sites --model $1

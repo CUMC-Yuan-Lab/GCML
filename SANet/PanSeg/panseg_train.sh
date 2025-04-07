@@ -1,0 +1,1 @@
+python -W ignore panseg_train.py -f 0 --gpu 0
