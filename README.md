@@ -14,7 +14,7 @@ More details can be found in the papers listed in the citation section.
 ### GCML with SA-Net on PanSeg dataset (coming soon)
 ### GCML with SA-Net on HECKTOR dataset (coming soon)
 
-## IEEE paper
+## Source paper
 https://doi.org/10.48550/arXiv.2503.03883
 
 ## License
