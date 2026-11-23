@@ -6,13 +6,15 @@ SA-Net is the segmentation model we used for GCML study. It was evaluated on var
 tasks under various imaging modalities with top performance, such as the 2nd place in BraTS 2021 challenge.
 More details can be found in the papers listed in the citation section.
 
+## GCML
+<img src="images/gcml.png" width="600">
+
+GCML is a unified framework to optimize personalized models in a decentralized environment, where Gossip Protocol is employed for flexible and robust peer-to-peer communication. To make efficient and reliable knowledge exchange in each communication without the global knowledge across all the sites, we introduce deep contrast mutual learning, a simple yet effective scheme to encourage knowledge transfer between the incoming and local models through collaborative training on local data.
+
 ## Use cases
 ### [SA-Net on BraTS21 dataset](SANet/BraTS/)
 ### [SA-Net on PanSeg dataset](SANet/PanSeg/)
-### SA-Net on HECKTOR dataset (coming soon)
-### GCML with SA-Net on BraTS21 dataset (coming soon)
-### GCML with SA-Net on PanSeg dataset (coming soon)
-### GCML with SA-Net on HECKTOR dataset (coming soon)
+### [GCML with SA-Net on BraTS21 dataset](GCML/BraTS/)
 
 ## Source paper
 https://doi.org/10.48550/arXiv.2503.03883
